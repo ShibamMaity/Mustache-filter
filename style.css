@@ -1,0 +1,23 @@
+h3
+{
+    font-size: 25px !important;
+}
+.btn-success:hover
+{
+    background-color: purple;  
+}
+   canvas {
+       animation-name: mustache;
+       animation-duration: 4s;
+       animation-iteration-count: infinite;
+   }
+
+@keyframes mustache {
+
+    from {box-shadow: 1px 1px 38px #89ABE3FF;}
+    to {box-shadow: 1px 1px 38px #EA738DFF;}
+    
+}
+body {
+    text-align: center;
+}
