@@ -14,8 +14,8 @@ h3
 
 @keyframes mustache {
 
-    from {box-shadow: 1px 1px 38px #89ABE3FF;}
-    to {box-shadow: 1px 1px 38px #EA738DFF;}
+    from {box-shadow: 2px 2px 38px #00A4CCFF;}
+    to {box-shadow: 2px 2px 38px #F95700FF;}
     
 }
 body {
